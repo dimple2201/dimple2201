@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Dimple Bisht</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align ="right" alt = "Coding" width = "400" src="https://www.bing.com/th/id/OGC.89a7028cb059866bd6102282e066ae10?pid=1.7&rurl=https%3a%2f%2fi.pinimg.com%2foriginals%2f4c%2fd6%2fea%2f4cd6eaa599851725aa5a195d162fb20d.gif&ehk=EvBYDk5TbI5ERiM4LY6miXR0ljpxqZh1tupKXj3RhOI%3d">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dimple2210&label=Profile%20views&color=0e75b6&style=flat" alt="dimple2210" /> </p>
 
