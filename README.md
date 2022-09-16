@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 💬 Ask me about **HTML,CSS**
+- 💬 Ask me about **HTML,CSS & JavaScript**
 
 - 📫 How to reach me **bishtdimple3897@gmail.com**
 
